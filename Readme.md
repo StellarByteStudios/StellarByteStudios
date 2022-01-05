@@ -4,4 +4,4 @@
 
 
 ## My stats
-<img align="center" alt="StellarByteStudio Stats" src="https://github-readme-stats.vercel.app/api?username=StellarByteStudios&count_private=true&show_icons=true&theme=radical">
+<img align="center" alt="StellarByteStudio Stats" src="https://github-readme-stats.vercel.app/api?username=StellarByteStudios&count_private=true&theme=radical">
