@@ -4,13 +4,12 @@ on:
     # cron: minute | hour | day of month | month | day of week
     # hier: alle viertel Stunde
     - cron: '0/15 * * * *'
-  workflow_dispach:
+  workflow_dispatch:
 
 jobs:
-  update-readme-with-gitactivity:
-    build:
-      name: Update Readme, fill in Git Hub Activity
-      runs-on: ubuntu-latest
+  build:
+    name: Update Readme, fill in Git Hub Activity
+    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
