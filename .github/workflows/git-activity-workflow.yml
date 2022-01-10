@@ -3,19 +3,19 @@ on:
   schedule:
     # cron: minute | hour | day of month | month | day of week
     # hier: alle viertel Stunde
-    - cron: '0/15 * * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 jobs:
   build:
-    name: Update Readme, fill in Git Hub Activity
     runs-on: ubuntu-latest
+    name: Update README with recent activity
 
     steps:
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: 'Updated the Git-Hub Activity'
+          COMMIT_MSG: 'Updated Git-Hub-Activities'
           MAX_LINES: 6
