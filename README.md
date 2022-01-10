@@ -24,9 +24,6 @@ I'm a computer science student at the HHU in Düsseldorf, parttime coder and som
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
   
  
 </details>
