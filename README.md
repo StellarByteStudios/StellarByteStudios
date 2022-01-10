@@ -19,9 +19,8 @@ I'm a computer science student at the HHU in Düsseldorf, parttime coder and som
 ## Latest Activity
 
 ### On Git Hub
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+<!--START_SECTION:activity-->
 
 ---
 
