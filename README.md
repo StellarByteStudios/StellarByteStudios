@@ -23,6 +23,12 @@ I'm a computer science student at the HHU in Düsseldorf, parttime coder and som
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/StellarByteStudios/StellarByteStudios/issues/1) in [StellarByteStudios/StellarByteStudios](https://github.com/StellarByteStudios/StellarByteStudios)
+2. 🗣 Commented on [#1](https://github.com/StellarByteStudios/StellarByteStudios/issues/1) in [StellarByteStudios/StellarByteStudios](https://github.com/StellarByteStudios/StellarByteStudios)
+3. 🗣 Commented on [#1](https://github.com/StellarByteStudios/StellarByteStudios/issues/1) in [StellarByteStudios/StellarByteStudios](https://github.com/StellarByteStudios/StellarByteStudios)
+4. 🗣 Commented on [#1](https://github.com/StellarByteStudios/StellarByteStudios/issues/1) in [StellarByteStudios/StellarByteStudios](https://github.com/StellarByteStudios/StellarByteStudios)
+5. 🗣 Commented on [#1](https://github.com/StellarByteStudios/StellarByteStudios/issues/1) in [StellarByteStudios/StellarByteStudios](https://github.com/StellarByteStudios/StellarByteStudios)
+<!--END_SECTION:activity-->
  
 </details>
 
