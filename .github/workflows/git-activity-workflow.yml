@@ -18,4 +18,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.ACTION_LOG_TOKEN }}
         with:
           COMMIT_MSG: 'Updated Git-Hub-Activities'
-          MAX_LINES: 10
+          MAX_LINES: 5
