@@ -15,7 +15,7 @@
 
 <img align="center" alt="StellarByteStudio Stats" src="https://github-readme-stats.vercel.app/api?username=StellarByteStudios&show_icons=true&count_private=true&theme=tokyonight&hide_rank=false&include_all_commits=false" />
 
-<img align="center" alt="StellarByteStudio Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StellarByteStudios&theme=tokyonight&card_width=445&langs_count=8&layout=compact" />
+
 
 <br /> 
 
