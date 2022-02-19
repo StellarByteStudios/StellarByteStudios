@@ -23,15 +23,15 @@ I'm a computer science student at the HHU in Düsseldorf, parttime coder and som
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/StellarByteStudios/SocialBoard/pull/5) in [StellarByteStudios/SocialBoard](https://github.com/StellarByteStudios/SocialBoard)
-2. 🗣 Commented on [#5](https://github.com/StellarByteStudios/SocialBoard/issues/5) in [StellarByteStudios/SocialBoard](https://github.com/StellarByteStudios/SocialBoard)
-3. 💪 Opened PR [#5](https://github.com/StellarByteStudios/SocialBoard/pull/5) in [StellarByteStudios/SocialBoard](https://github.com/StellarByteStudios/SocialBoard)
-4. 🎉 Merged PR [#4](https://github.com/StellarByteStudios/SocialBoard/pull/4) in [StellarByteStudios/SocialBoard](https://github.com/StellarByteStudios/SocialBoard)
-5. 🗣 Commented on [#4](https://github.com/StellarByteStudios/SocialBoard/issues/4) in [StellarByteStudios/SocialBoard](https://github.com/StellarByteStudios/SocialBoard)
-6. 💪 Opened PR [#4](https://github.com/StellarByteStudios/SocialBoard/pull/4) in [StellarByteStudios/SocialBoard](https://github.com/StellarByteStudios/SocialBoard)
-7. 🎉 Merged PR [#3](https://github.com/StellarByteStudios/SocialBoard/pull/3) in [StellarByteStudios/SocialBoard](https://github.com/StellarByteStudios/SocialBoard)
-8. 🗣 Commented on [#3](https://github.com/StellarByteStudios/SocialBoard/issues/3) in [StellarByteStudios/SocialBoard](https://github.com/StellarByteStudios/SocialBoard)
-9. 💪 Opened PR [#3](https://github.com/StellarByteStudios/SocialBoard/pull/3) in [StellarByteStudios/SocialBoard](https://github.com/StellarByteStudios/SocialBoard)
+1. 🎉 Merged PR [#6](https://github.com/StellarByteStudios/SocialBoard/pull/6) in [StellarByteStudios/SocialBoard](https://github.com/StellarByteStudios/SocialBoard)
+2. 💪 Opened PR [#6](https://github.com/StellarByteStudios/SocialBoard/pull/6) in [StellarByteStudios/SocialBoard](https://github.com/StellarByteStudios/SocialBoard)
+3. 🎉 Merged PR [#5](https://github.com/StellarByteStudios/SocialBoard/pull/5) in [StellarByteStudios/SocialBoard](https://github.com/StellarByteStudios/SocialBoard)
+4. 🗣 Commented on [#5](https://github.com/StellarByteStudios/SocialBoard/issues/5) in [StellarByteStudios/SocialBoard](https://github.com/StellarByteStudios/SocialBoard)
+5. 💪 Opened PR [#5](https://github.com/StellarByteStudios/SocialBoard/pull/5) in [StellarByteStudios/SocialBoard](https://github.com/StellarByteStudios/SocialBoard)
+6. 🎉 Merged PR [#4](https://github.com/StellarByteStudios/SocialBoard/pull/4) in [StellarByteStudios/SocialBoard](https://github.com/StellarByteStudios/SocialBoard)
+7. 🗣 Commented on [#4](https://github.com/StellarByteStudios/SocialBoard/issues/4) in [StellarByteStudios/SocialBoard](https://github.com/StellarByteStudios/SocialBoard)
+8. 💪 Opened PR [#4](https://github.com/StellarByteStudios/SocialBoard/pull/4) in [StellarByteStudios/SocialBoard](https://github.com/StellarByteStudios/SocialBoard)
+9. 🎉 Merged PR [#3](https://github.com/StellarByteStudios/SocialBoard/pull/3) in [StellarByteStudios/SocialBoard](https://github.com/StellarByteStudios/SocialBoard)
 <!--END_SECTION:activity-->
   
  
