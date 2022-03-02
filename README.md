@@ -13,6 +13,12 @@ I'm a computer science student at the HHU in Düsseldorf, parttime coder and som
 [<img align="center" alt="Abschlussprojekt Card" src="https://github-readme-stats.vercel.app/api/pin/?username=StellarByteStudios&repo=Dungeon-Escape&theme=tokyonight&width=200">](https://github.com/StellarByteStudios/Dungeon-Escape)  
 <br />
 
+### Work in Progress:
+[<img align="left" alt="SocialBoard Card" src="https://github-readme-stats.vercel.app/api/pin/?username=StellarByteStudios&repo=Meteroids&theme=tokyonight&width=200">](https://github.com/StellarByteStudios/SocialBoard)  
+
+[<img align="center" alt="SlashyBot Card" src="https://github-readme-stats.vercel.app/api/pin/?username=StellarByteStudios&repo=Dungeon-Escape&theme=tokyonight&width=200">](https://github.com/StellarByteStudios/SlashyBot)  
+<br />
+
 ---
 
 ## Latest Activity
