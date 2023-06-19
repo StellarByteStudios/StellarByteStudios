@@ -8,23 +8,23 @@ I'm a computer science student at the HHU in Düsseldorf, parttime coder and som
 
 ## My Work:
 
-[<img align="left" alt="Meteroids Card" src="https://github-readme-stats.vercel.app/api/pin/?username=StellarByteStudios&repo=Meteroids&theme=tokyonight&width=200">](https://github.com/StellarByteStudios/Meteroids)  
+[<img align="left" alt="Meteroids Card" src="https://github-readme-stats.vercel.app/api/pin/?username=StellarByteStudios&repo=Meteroids&theme=tokyonight&width=180">](https://github.com/StellarByteStudios/Meteroids)  
 
-[<img align="center" alt="Abschlussprojekt Card" src="https://github-readme-stats.vercel.app/api/pin/?username=StellarByteStudios&repo=Dungeon-Escape&theme=tokyonight&width=200">](https://github.com/StellarByteStudios/Dungeon-Escape)  
+[<img align="center" alt="Abschlussprojekt Card" src="https://github-readme-stats.vercel.app/api/pin/?username=StellarByteStudios&repo=Dungeon-Escape&theme=tokyonight&width=180">](https://github.com/StellarByteStudios/Dungeon-Escape)  
 <br />
 
 ### Arduino Projects:
 #### Sensor Objective Libaries
 
-[<img align="left" alt="BMP180 Libary Card" src="https://github-readme-stats.vercel.app/api/pin/?username=StellarByteStudios&repo=BMP180-Arduino-Libary&theme=tokyonight&width=200">](https://github.com/StellarByteStudios/BMP180-Arduino-Libary)  
+[<img align="left" alt="BMP180 Libary Card" src="https://github-readme-stats.vercel.app/api/pin/?username=StellarByteStudios&repo=BMP180-Arduino-Libary&theme=tokyonight&width=180">](https://github.com/StellarByteStudios/BMP180-Arduino-Libary)  
 
-[<img align="center" alt="DHT11 Libary Card" src="https://github-readme-stats.vercel.app/api/pin/?username=StellarByteStudios&repo=DHT11-Arduino-Libary&theme=tokyonight&width=200">](https://github.com/StellarByteStudios/DHT11-Arduino-Libary)  
+[<img align="center" alt="DHT11 Libary Card" src="https://github-readme-stats.vercel.app/api/pin/?username=StellarByteStudios&repo=DHT11-Arduino-Libary&theme=tokyonight&width=180">](https://github.com/StellarByteStudios/DHT11-Arduino-Libary)  
 <br />
 
 ### Work in Progress:
-[<img align="left" alt="SocialBoard Card" src="https://github-readme-stats.vercel.app/api/pin/?username=StellarByteStudios&repo=SocialBoard&theme=tokyonight&width=200">](https://github.com/StellarByteStudios/SocialBoard)  
+[<img align="left" alt="SocialBoard Card" src="https://github-readme-stats.vercel.app/api/pin/?username=StellarByteStudios&repo=SocialBoard&theme=tokyonight&width=180">](https://github.com/StellarByteStudios/SocialBoard)  
 
-[<img align="center" alt="SlashyBot Card" src="https://github-readme-stats.vercel.app/api/pin/?username=StellarByteStudios&repo=SlashyBot&theme=tokyonight&width=200">](https://github.com/StellarByteStudios/SlashyBot)  
+[<img align="center" alt="SlashyBot Card" src="https://github-readme-stats.vercel.app/api/pin/?username=StellarByteStudios&repo=SlashyBot&theme=tokyonight&width=180">](https://github.com/StellarByteStudios/SlashyBot)  
 <br />
 
 ---
