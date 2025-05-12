@@ -1,8 +1,8 @@
-# Hey, it's me, your boy StellarByte aka Carsten
+# Hey, it's me, StellarByte aka Carsten
 
 
 ## About me
-I'm a computer science student at the HHU in Düsseldorf, parttime coder and sometimes gamedeveloper.
+I'm a computer science student at the HHU in Düsseldorf, parttime coder and sometimes game-developer.
 
 ---
 
